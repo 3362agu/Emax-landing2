@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "emax-prod"
+  },
+  "targets": {
+    "emax-prod": {
+      "hosting": {
+        "emax-landing": [
+          "emax-landing"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
