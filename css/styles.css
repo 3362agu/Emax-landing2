@@ -832,7 +832,7 @@ input[type='checkbox'] {
 	margin-right: auto;
 	margin-bottom: 0.25rem;
 	margin-left: auto;
-	border-radius: 50%;
+	/*border-radius: 50%;*/
 }
 
 .slider-1 .card-body {
@@ -848,12 +848,13 @@ input[type='checkbox'] {
 /*     05. Features     */
 /************************/
 .tabs {
-	padding-top: 6.5rem;
+	padding-top: 4rem;
 	padding-bottom: 4.25rem;
 	background-color: #2f2c3d;
 }
 
 .tabs h2 {
+	color: #00c9db;
 	margin-bottom: 1.125rem;
 	text-align: center;
 }
@@ -1543,7 +1544,7 @@ a:hover.back-to-top {
 
 	/* Navigation */
 	.navbar-custom {
-		padding: 2.125rem 1.5rem 2.125rem 2rem;
+		padding: 1.525rem 1.5rem 1.525rem 2rem;
 		box-shadow: none;
         background: transparent;
 	}
@@ -1775,8 +1776,8 @@ a:hover.back-to-top {
 
 	/* Header */
 	.header .header-content {
-		padding-top: 13rem;
-		padding-bottom: 10rem;
+		padding-top: 10rem;
+		padding-bottom: 6rem;
 		text-align: left;
 	}
 
@@ -1948,7 +1949,7 @@ a:hover.back-to-top {
 	
 	/* General Styles */
 	.p-heading {
-		width: 44%;
+		width: 80%;
 	}
 	/* end of general styles */
 
