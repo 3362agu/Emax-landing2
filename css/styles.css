@@ -959,7 +959,7 @@ input[type='checkbox'] {
 }
 
 .tabs #tab-2 .text-area {
-	margin-top: 1.5rem;
+	margin-top: 1rem;
 }
 
 .tabs #tab-2 h3 {
@@ -990,7 +990,6 @@ input[type='checkbox'] {
 .tabs #tab-3 img {
 	margin: 0 auto 3rem auto;
 }
-
 
 /*********************/
 /*     07. Video     */
@@ -1832,6 +1831,11 @@ a:hover.back-to-top {
 
 	.tabs #tab-3 .icon-cards-area .card p {
 		margin-bottom: 0.5rem;
+	}
+
+	.marginT {
+		margin-left: -200px;
+		margin-right: -480px;
 	}
 	/* end of features */
 
