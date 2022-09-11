@@ -859,6 +859,18 @@ input[type='checkbox'] {
 	text-align: center;
 }
 
+.admMon {
+	color: #00c9db;
+}
+.admMonP {
+	color: white;
+	font-size: medium;
+}
+
+.admMonB {
+	color: #40e0ee;
+}
+
 .tabs .p-heading {
 	margin-bottom: 3.125rem;
 }
@@ -1834,8 +1846,8 @@ a:hover.back-to-top {
 	}
 
 	.marginT {
-		margin-left: -200px;
-		margin-right: -480px;
+		margin-left: -50px;
+		margin-right: -400px;
 	}
 	/* end of features */
 
