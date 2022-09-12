@@ -860,7 +860,7 @@ input[type='checkbox'] {
 }
 
 .admMon {
-	color: #00c9db;
+	color: #40e0ee;
 }
 .admMonP {
 	color: white;
@@ -968,6 +968,19 @@ input[type='checkbox'] {
 .tabs #tab-2 img {
 	display: block;
 	margin: 0 auto 2rem auto;
+}
+
+.us {
+	color: white;
+	font-size: large;
+}
+
+.us0 {
+	color: #00c9db;
+}
+
+.back {
+	margin-left: 40px;
 }
 
 .tabs #tab-2 .text-area {
